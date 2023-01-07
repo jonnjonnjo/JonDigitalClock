@@ -5,7 +5,7 @@ Here's my a Digital Clock HTML, CSS, and Javascript. I actually take the code fr
 Here's the source :
 https://www.youtube.com/watch?v=EWv2jnhZErc&t=2914s&ab_channel=JavaScriptKing
 
-I also use background from game named Firewatch
+I also use background from game named [Firewatch](https://www.firewatchgame.com/)
 
 # Some Features that I've added
 - Changing background and clock color if it's between AM an PM
