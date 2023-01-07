@@ -1,6 +1,6 @@
 # Digital-Clock
 
-Here's my a Digital Clock HTML, CSS, and Javascript. I actually take the code from someone's project.
+Here's a Digital Clock HTML, CSS, and Javascript. I actually take the code from someone's project.
 
 Here's the source :
 https://www.youtube.com/watch?v=EWv2jnhZErc&t=2914s&ab_channel=JavaScriptKing
